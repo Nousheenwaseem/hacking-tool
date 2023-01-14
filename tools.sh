@@ -1,9 +1,9 @@
 #!/bin/bash
-# version 2.0
+# version 2.0#e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Saved:\e[0m\e[1;77m %s.txt\n" _.its_prvt._
 
 clear
 
-
+https://github.com/xHak9x/finduser<1;77m[\e[0m\e[1;92m+\e[0m\e[1;77m] Instagram: \e[0m"
 echo ""
 echo -e "SUBSCRIBE MY CHANNEL"
 echo ""
@@ -11,11 +11,11 @@ echo ""
 echo -e "\e[101m Press Enter \e[0m"
 read a1
 
-echo "Loading..." | lolcat
+echo "Loading..." | instagram 
 sleep 2
 clear
 
-toilet -f future "TECH COCHI" | lolcat
+toilet -f future "TECH COCHI" |
 echo "-------------------------------------------------------" | lolcat
 echo   "Author   : TECH COCHI $white" |lolcat
 echo   "Contact  : https://t.me/techcochiyoutuber $white" |lolcat
